@@ -5,7 +5,8 @@ Project description ->
 
 1. Technology: MySQL, J2EE, MVC, Java, JSP, JSON, RESTful API, JavaScript, HTML 5, CSS 3, Apache Tomcat
 2. Employed EER diagrams and Normalization techniques to design backend SQL database Schema and efficient SQL queries for a Web application implementing a Library Management System to be used by a librarian.
-3.Designed Front-end UI and Implemented functionalities of Automated Fine Update using Batch Script, Constrained Check-in and Check-out of Books, Book Search and Availability, and Valid Borrower Account Creation 
+
+3. Designed Front-end UI and Implemented functionalities of Automated Fine Update using Batch Script, Constrained Check-in and Check-out of Books, Book Search and Availability, and Valid Borrower Account Creation 
 
 
 Steps to Run the Code->
